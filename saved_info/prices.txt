@@ -1,0 +1,15 @@
+|Ingredient Price per Liter|
+white flour: $0.67
+oil: $5.08
+salt: $4.06
+sugar: $1.81
+water: $0.00
+yeast: $54.78
+white onion: $0.08
+jalapeno: $8.85
+lime juice: $5.67
+tomato: $0.32
+cilantro: $1.78
+|Item Price|
+bread: $1.99
+pico de gallo: $2.99
